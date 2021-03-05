@@ -1,15 +1,16 @@
-id: opecha:P007963
+id: P007963
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6658
   title: ཞེ་སའི་ལག་དེབ་བླི་གསར་དགའ་སྟོན།
-  volume:
+  author: ''
+  volumes:
     4882104d7f044260b0d58d9ca5c35d23:
       image_group_id: I3CN6660
       title: Volume 1 of zhe sa'i lag deb bli gsar dga' ston/
       volume_number: 1
       total_pages: 349
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཞེ་སའི་ལག་དེབ་བླི་གསར་དགའ་སྟོན།
   author: ''
